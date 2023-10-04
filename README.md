@@ -39,3 +39,14 @@ Hardware : Arduino Mega2560(메인보드), Esp8266(통신모듈)
 ### 실제 도로 적용
 <img src="https://github.com/hyeokzzi/StreetLampProject_Multifusion-Sensor/assets/87352996/749321d6-51b5-4aad-922c-27bdea351a6f.png" width="500" height="250"/>   
 
+
+   
+## 개선 모습
+* LED 개선
+   - 새로운 모델을 제작하여 신호가 시각적으로 잘 표현되도록 설계
+<img src="https://github.com/hyeokzzi/StreetLampProject_Multifusion-Sensor/assets/87352996/1c771914-e731-4c9b-abe8-9d84ba6d9ae2.png" width="250" height="250"/>   
+<img src="https://github.com/hyeokzzi/StreetLampProject_Multifusion-Sensor/assets/87352996/41a8a420-12db-48c0-a1b5-f6cd4d1a3d82.png" width="250" height="250"/>
+<img src="https://github.com/hyeokzzi/StreetLampProject_Multifusion-Sensor/assets/87352996/664d66b6-fc2a-4846-bb71-cf07c0ede32c.png" width="250" height="250"/>  
+<img src="https://github.com/hyeokzzi/StreetLampProject_Multifusion-Sensor/assets/87352996/83f64bcb-fda0-4646-9d1b-9c650095866b.png" width="250" height="250"/>  
+
+
